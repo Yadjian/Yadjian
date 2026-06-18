@@ -2,9 +2,7 @@
 
 Welcome to my GitHub profile
 
-Computer Science student at Holberton School Fréjus  
-Passionate about cybersecurity, systems, web development, and building real-world projects  
-Code explorer, always looking for new challenges
+Computer Science student passionate about web development, coding, and building real-world projects.
 
 ---
 
