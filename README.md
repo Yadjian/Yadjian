@@ -57,8 +57,7 @@ Computer Science student passionate about web development, coding, and building 
 - Application & network security  
 - Low-level code optimization in C  
 - Mobile development with React Native  
-- Automation and deployment with Docker
-- Java, Spring Boot and Angular  
+- Automation and deployment with Docker 
 
 ---
 
